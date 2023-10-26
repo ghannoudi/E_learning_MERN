@@ -1,0 +1,14 @@
+.tuto {
+  margin-top: 4%;
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 3%;
+  font-size: 150%;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: -10px 13px 19px -1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -10px 13px 19px -1px rgba(3, 3, 3, 0.75);
+  -moz-box-shadow: -10px 13px 19px -1px rgba(0, 0, 0, 0.75);
+  height: 500px;
+}

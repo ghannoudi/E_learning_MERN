@@ -1,0 +1,50 @@
+.thead {
+   background-color: #04aa6d;
+   color: #ffffff;
+   font-family: Arial, Helvetica, sans-serif;
+  
+ }
+ 
+ .specs {
+   float: left !important;
+   margin-top: 4% !important;
+   width: 82% !important;
+   margin-left: 18% !important;
+ 
+   padding: 0 2% !important;
+ }
+ .createSpec{
+     margin-bottom: 3%;
+     margin-left: 83%;
+ }
+ 
+ 
+ #customers {
+     font-family: Arial, Helvetica, sans-serif;
+     border-collapse: collapse;
+     width: 98% !important;
+     margin: 0 auto !important;
+    
+     
+   }
+   
+   #customers td, #customers th {
+     border: 1px solid #ddd;
+     padding: 8px;
+   }
+   
+   #customers tr:nth-child(even){background-color: #f2f2f2;}
+   
+   #customers tr:hover {background-color: #ddd;}
+   
+   #customers th {
+     padding-top: 12px;
+     padding-bottom: 12px;
+     text-align: left;
+     background-color: #04AA6D;
+     color: white;
+   }
+   .delete:hover{
+ cursor: pointer;
+ color: red ;
+   }

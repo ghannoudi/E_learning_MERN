@@ -1,0 +1,43 @@
+.carro {
+  background-color: rgb(233, 220, 220);
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 20px;
+  box-shadow: -10px 13px 19px -1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -10px 13px 19px -1px rgba(3, 3, 3, 0.75);
+  -moz-box-shadow: -10px 13px 19px -1px rgba(0, 0, 0, 0.75);
+  display: inline-block;
+  margin: 1%;
+}
+.chart2 {
+  padding-top: 5%;
+  margin-left: 20%;
+}
+.nomber {
+  margin-left: 70%;
+}
+.icon {
+  width: 20%;
+  margin-left: 20%;
+  padding-top: 20%;
+}
+.name {
+  margin-left: 25%;
+  margin-top: 10%;
+}
+.namedep {
+  margin-top: 10%;
+}
+.chartTeach {
+  float: left;
+  margin-left: 30%;
+}
+.chartStudent {
+  float: right;
+  margin-right: 15%;
+}
+.rondade {
+  margin-top: 3%;
+}
+

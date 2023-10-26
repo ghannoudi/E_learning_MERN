@@ -1,0 +1,94 @@
+.heder {
+  position: fixed !important;
+  top: 0 !important;
+  background-color: white;
+  width: 100%;
+  z-index: 2;
+}
+.carousel {
+  width: 100%;
+
+  margin-top: 2%;
+}
+
+.hight {
+  width: 100% !important;
+  height: 800px !important;
+}
+
+.quotes {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  margin-top: -30%;
+  margin-left: 55%;
+  font-weight: bold;
+}
+.i1 {
+  width: 60%;
+  margin-top: 7%;
+}
+.p2 {
+  background-color: white;
+  margin-top: 0%;
+  height: 700px;
+}
+.inscrit {
+  width: 40%;
+  height: 120px;
+  margin-top: 4%;
+  margin-left: 1%;
+  font-size: 40px;
+
+}
+.logogereral {
+  width: 5%;
+  padding-right: 2%;
+  height: 50%;
+}
+.deptss {
+  padding-left: 10%;
+  padding-top: 2%;
+  padding-right: 10%;
+  padding-bottom: 6%;
+  background-color: aliceblue;
+  width: 100%;
+}
+.explore {
+  padding: 3%;
+  font-size: 80px;
+}
+.depart {
+  overflow: hidden;
+  width: 500px;
+  height: 150px;
+  display: inline-block;
+  background-color: antiquewhite;
+  margin: 2%;
+  border: 1px solid black;
+  border-radius: 4px;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 2%;
+  box-shadow: -6px 4px 8px -2px rgba(0, 0, 0, 0.79);
+  -webkit-box-shadow: -6px 4px 8px -2px rgba(0, 0, 0, 0.79);
+  -moz-box-shadow: -6px 4px 8px -2px rgba(0, 0, 0, 0.79);
+}
+.depart:hover {
+  width: 550px;
+  cursor: pointer;
+  height: 170px;
+  padding-top: 4%;
+}
+
+.take {
+  float: right;
+  margin-right: 1%;
+  font-size: 65px;
+  margin-top: 12%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.i5 {
+  width: 50%;
+  margin-left: 5%;
+}
